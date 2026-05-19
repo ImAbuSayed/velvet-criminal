@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-criminal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Velvet Criminal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-criminal/) |
+| **Get License** | [Music Rights & Licensing for Velvet Criminal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-criminal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhan vich nasha tera karda ae control right now,
+> Teri gallan mithi lagdi ae deep down.
+> Nazar jadon milawan main forget the world,
+> Har saah vich tera naam lawaan my girl.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
