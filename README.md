@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-criminal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Velvet Criminal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-criminal/) |
+| **Get License** | [Get a Licensing Quote for Velvet Criminal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-criminal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2afb76147ab386d04d2595d89d25345aed51f5721a966d0031a97027ac4cbb0c` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
